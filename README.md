@@ -1,2 +1,5 @@
-# ueworks
-translation projects for adventure games based on Unreal Engine 3
+# This repo is dedciated for translating UE3 games to Hebrew
+
+## Avalible Games
+
+- Life Is Strange

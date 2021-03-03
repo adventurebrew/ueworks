@@ -10,9 +10,9 @@
 
 ![alt text](swf_original.JPG 'Original Font File')
 
-- add hebrew letters to the original font - Dudu Caligraphy (need some more docs here) and saved it as "fonts_he.Swf"
+- Add hebrew letters to the original font - Dudu Caligraphy (need some more docs here) and saved it as "fonts_he.Swf"
 
-![alt text](swf_original.JPG 'Font File with hebrew letters')
+![alt text](swf_after.JPG 'Font File with hebrew letters')
 
 ## Creating UPK file with the new fonts
 
@@ -36,6 +36,7 @@
 
 ![GFxUI](GFxUI.JPG 'GFxUI')
 
-💯 **Congrants! you now have ability to use hebrew text in the game all you have to do is edit text file on "LifeIsStrangeGame\Localization\INT\"**
+💯 **Congrants! You now have ability to use hebrew text in the game.
+All you have to do is edit the text files on "LifeIsStrangeGame\Localization\INT\"**
 
 ![game](game.png 'game')

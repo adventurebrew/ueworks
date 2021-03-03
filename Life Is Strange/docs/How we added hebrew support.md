@@ -18,9 +18,10 @@
 
 - Download and install [UDK 2015-02 release](https://www.indiedb.com/engines/unreal-development-kit/downloads/february-2015-unreal-development-kit-udk)
 
-- On the installtion folder create the folder path "UDKGame/Flash/Fonts_he/SN_Font_HE" (make sure you're creating the folder the same root folder UDK is running from) and copy the font file there.
+- On the installation folder create the folder path "UDKGame/Flash/Fonts_he/SN_Font_HE" (make sure you're creating the folder the same root folder UDK is running from) and copy the font file there.
 
-- Open the UDK editor and select import on the contect browser window and click ok
+- Open the UDK editor and select import on the content browser window
+- Select the font file and click ok
 
 ![import asset](udk_import.JPG 'import asset')
 ![package file](udk_package_file.JPG 'package file')
@@ -31,12 +32,12 @@
 
 ## Configuring the game to use new font package
 
-- On the game directory open file "GFxUI.int" (LifeIsStrangeGame\Localization\INT\)
+- On the game directory, open file "GFxUI.int" (LifeIsStrangeGame\Localization\INT\)
 - Change the first fontLib to use "Fonts_HE.SN_Font_HE.fonts_he" instead of "SN_Font_EN.fonts_en"
 
 ![GFxUI](GFxUI.JPG 'GFxUI')
 
-💯 **Congrants! You now have ability to use hebrew text in the game.
+💯 **Congrats! You now have the ability to use hebrew text in the game.
 All you have to do is edit the text files on "LifeIsStrangeGame\Localization\INT\"**
 
 ![game](game.png 'game')
